@@ -1,4 +1,4 @@
-!<p align="center">
+<p align="center">
   <h1 align="center">Cats Rescue (Android Studio+Admob+GDPR)</h1>
   
   <h3>Match two or more blocks of the same color to clear the level and save the pets from the evil Pet Snatchers! Moves are limited so plan them carefully. Your puzzle skills will be tested with hours of block busting fun!</h3>
